@@ -40,7 +40,7 @@ int main(void)
         cout<<message<<endl;
 
     }
-    /*moeid commit test*/
+    /*moeid commit test  */
 
 
     return 0;
